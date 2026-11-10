@@ -41,3 +41,7 @@ Windows 바탕화면에 띄워 두는 작은 습관 트래커 위젯입니다.
 
 - `HabitWidget.ps1`: 위젯 본체 (PowerShell + WPF)
 - `HabitWidget.vbs`: 콘솔 창 없이 위젯을 실행하는 런처
+
+## 라이선스
+
+[MIT License](LICENSE)
